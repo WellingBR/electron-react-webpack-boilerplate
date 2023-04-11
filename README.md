@@ -32,6 +32,8 @@ Minimal Electron, React, PostCSS and Webpack boilerplate to help you get started
 * [Code of Conduct](#code-of-conduct)
 * [License](#license)
 
+### Node v14x
+
 ### Install
 
 #### Clone this repo
